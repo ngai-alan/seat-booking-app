@@ -47,7 +47,7 @@ php artisan migrate
 php artisan db:seed
 php artisan serve
 ```
-
+> Basically, the app will be run on 127.0.0.1:8000
 ## Unit Test
 
 Copy .env.example to .env.testing and Update the database configuration in .env:
