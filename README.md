@@ -29,6 +29,7 @@ Seat-Booking-App requires the following to run
 
 Install the dependencies and devDependencies and start the server.
 
+Copy .env.example and rename to .env 
 Update the database configuration in .env:
 ```sh
 DB_CONNECTION=mysql
